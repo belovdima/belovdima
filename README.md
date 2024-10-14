@@ -3,7 +3,7 @@
   
 Мои проекты можешь найти [здесь!](https://github.com/belovdima/PROJECTS)
 
-В данный момент в поиске работы! <br> Связаться со мной: [telegram](https://t.me/freddiedurst), [hh.ru](https://hh.ru/resume/b71cd405ff0d3829560039ed1f483165683959)
+В данный момент в поиске работы! <br> Связаться со мной: [telegram](https://t.me/freddiedurst) / [hh.ru](https://hh.ru/resume/b71cd405ff0d3829560039ed1f483165683959)
 </h3>
 
 # 💻 Tech Stack:
