@@ -7,6 +7,8 @@
 
 Мои проекты можешь найти [здесь](https://github.com/belovdima/PROJECTS).
 
+Собственная [база знаний](https://github.com/belovdima/frontend-knowledge-base) по фронтенду.
+
 **Связаться со мной:** [Telegram](https://t.me/freddiedurst)
 
 ---
