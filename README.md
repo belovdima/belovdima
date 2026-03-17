@@ -9,7 +9,7 @@
 
 Собственная [база знаний](https://github.com/belovdima/frontend-knowledge-base) по фронтенду.
 
-**Связаться со мной:** [Telegram](https://t.me/freddiedurst)
+**Связаться со мной:** [Telegram](https://t.me/belov20)
 
 ---
 
